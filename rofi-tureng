@@ -4,7 +4,7 @@
 input=$(rofi -dmenu -p "Search in Tureng")
 
 # Python sanal ortamını etkinleştir
-source /home/aziz/Masaüstü/tureng-rofi/myenv/bin/activate
+source ./myenv/bin/activate
 
 # Eğer input boş değilse işlemi başlat
 if [ -n "$input" ]; then
@@ -18,9 +18,9 @@ if [ -n "$input" ]; then
     echo "Navigating to: $url"
     
     # Python scripti çalıştır, URL'yi işlemek için
-    python3 /home/aziz/Masaüstü/tureng-rofi/index.py "$url"
+    python3 ./index.py "$url"
 fi
 
-bash /home/aziz/Masaüstü/tureng-rofi/clean_table.sh
+bash ./clean_table.sh
 
-cat /home/aziz/Masaüstü/tureng-rofi/clean_rofi_output.txt | rofi -dmenu
+cat ./clean_rofi_output.txt | rofi -dmenu
