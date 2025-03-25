@@ -1,42 +1,195 @@
-1. Genel
-- ataturk                                                                 
- -> ata                                                                         
-1. Genel
-- commemoration of atatürk youth and sports day                           
- -> atatürk'ü anma gençlik ve spor bayramı                                      
 2. Genel
-- the commemoration of atatürk                                            
- -> atatürk'ü anma                                                              
+- aziz                                                                                                                                                                        
+ -> hallow                                                                                                                                                                                           
 3. Genel
-- the life of atatürk                                                     
- -> atatürk'ün hayatı                                                           
+- aziz                                                                                                                                                                        
+ -> seint                                                                                                                                                                                            
 4. Genel
-- the atatürk corner                                                      
- -> atatürk köşesi                                                              
+- aziz                                                                                                                                                                        
+ -> sacred                                                                                                                                                                                           
 5. Genel
-- may 19 the commemoration of atatürk youth and sports day                
- -> 19 mayıs atatürk'ü anma ve gençlik ve spor bayramı                          
+- aziz                                                                                                                                                                        
+ -> august                                                                                                                                                                                           
 6. Genel
-- atatürk dam                                                             
- -> atatürk barajı                                                              
+- aziz                                                                                                                                                                        
+ -> valuable                                                                                                                                                                                         
 7. Genel
-- atatürk house museum                                                    
- -> atatürk evi müzesi                                                          
+- aziz                                                                                                                                                                        
+ -> precious                                                                                                                                                                                         
 8. Genel
-- atatürk culture centre                                                  
- -> atatürk kültür merkezi                                                      
+- aziz                                                                                                                                                                        
+ -> ducky                                                                                                                                                                                            
 9. Genel
-- atatürk culture center                                                  
- -> atatürk kültür merkezi                                                      
+- aziz                                                                                                                                                                        
+ -> saintly                                                                                                                                                                                          
 10. Genel
-- atatürk picture                                                         
- -> atatürk resmi                                                               
+- aziz                                                                                                                                                                        
+ -> mighty                                                                                                                                                                                           
 11. Genel
-- atatürk photo                                                           
- -> atatürk resmi                                                               
+- aziz                                                                                                                                                                        
+ -> beloved                                                                                                                                                                                          
 12. Genel
-- the mausoleum of atatürk                                                
- -> anıtkabir                                                                   
-14. Konuşma
-- where was atatürk born?                                                 
- -> atatürk nerede doğdu?                                                       
+- aziz                                                                                                                                                                        
+ -> glorious                                                                                                                                                                                         
+13. Genel
+- aziz                                                                                                                                                                        
+ -> dear                                                                                                                                                                                             
+14. Genel
+- aziz                                                                                                                                                                        
+ -> rich [obsolete]                                                                                                                                                                                  
+1. Genel
+- aziz patrik                                                                                                                                                                 
+ -> saint patrick                                                                                                                                                                                    
+2. Genel
+- aziz ilan etmek                                                                                                                                                             
+ -> canonize                                                                                                                                                                                         
+3. Genel
+- aziz paulus'un öğrencisi (incil)                                                                                                                                            
+ -> timothy                                                                                                                                                                                          
+4. Genel
+- çoğunlukla latin ülkelerinde belirli aziz ve dini kişiliklerle bağlantılı resmi tatiller                                                                                    
+ -> fiesta                                                                                                                                                                                           
+5. Genel
+- koruyucu aziz                                                                                                                                                               
+ -> patron saint                                                                                                                                                                                     
+6. Genel
+- aziz ilan etme                                                                                                                                                              
+ -> beatification                                                                                                                                                                                    
+7. Genel
+- aziz patrik                                                                                                                                                                 
+ -> st. patrick                                                                                                                                                                                      
+8. Genel
+- aziz agnes bayramı                                                                                                                                                          
+ -> st. agnes eve                                                                                                                                                                                    
+9. Genel
+- aziz vitus dansı                                                                                                                                                            
+ -> st. vitus's dance                                                                                                                                                                                
+10. Genel
+- aziz benedict rahibi                                                                                                                                                        
+ -> benedictine                                                                                                                                                                                      
+11. Genel
+- aziz patrik günü                                                                                                                                                            
+ -> saint patrick's day                                                                                                                                                                              
+12. Genel
+- aziz petrus'un hapishaneden mucizevi kurtuluşunun anıldığı tarih                                                                                                            
+ -> august 1                                                                                                                                                                                         
+13. Genel
+- aziz hatıra                                                                                                                                                                 
+ -> beloved memory                                                                                                                                                                                   
+14. Genel
+- aziz peter ve paul bayramı                                                                                                                                                  
+ -> jun 26                                                                                                                                                                                           
+15. Genel
+- aziz peter ve paul bayramı                                                                                                                                                  
+ -> saints peter and paul                                                                                                                                                                            
+16. Genel
+- aziz michael ve aziz george tarikatı görevlisi                                                                                                                              
+ -> blue rod [uk]                                                                                                                                                                                    
+17. Genel
+- birçok hristiyan kilisesinde aziz yahya'nın doğumunun kutlandığı gün                                                                                                        
+ -> midsummer day                                                                                                                                                                                    
+18. Genel
+- aziz philip neri ruhban okulunun binası                                                                                                                                     
+ -> oratory                                                                                                                                                                                          
+19. Genel
+- aziz andrew haçı                                                                                                                                                            
+ -> saint andrew's cross                                                                                                                                                                             
+20. Genel
+- aziz andreas haçı                                                                                                                                                           
+ -> saint andrew's cross                                                                                                                                                                             
+21. Genel
+- aziz patrick günü                                                                                                                                                           
+ -> st patrick's day                                                                                                                                                                                 
+22. Genel
+- aziz patrick'i anma günü                                                                                                                                                    
+ -> st patrick's day                                                                                                                                                                                 
+23. Genel
+- aziz andrew haçı                                                                                                                                                            
+ -> st. andrew's cross                                                                                                                                                                               
+24. Genel
+- aziz andreas haçı                                                                                                                                                           
+ -> st. andrew's cross                                                                                                                                                                               
+25. Genel
+- aziz ve şehitlerin çektiği ıstırapların anlatıldığı bir kitap                                                                                                               
+ -> passional                                                                                                                                                                                        
+26. Genel
+- irlanda'da bir koruyucu aziz günü                                                                                                                                           
+ -> pattern                                                                                                                                                                                          
+27. Genel
+- irlanda'da koruyucu aziz günüyle bağlantılı bayram                                                                                                                          
+ -> pattern                                                                                                                                                                                          
+28. Genel
+- koruyucu aziz                                                                                                                                                               
+ -> patron                                                                                                                                                                                           
+29. Genel
+- genç aziz                                                                                                                                                                   
+ -> saintling                                                                                                                                                                                        
+30. Genel
+- aziz valentin günü                                                                                                                                                          
+ -> saint valentine's day                                                                                                                                                                            
+31. Genel
+- aziz tutmak                                                                                                                                                                 
+ -> cherish                                                                                                                                                                                          
+32. Genel
+- aziz kabul etmek                                                                                                                                                            
+ -> saint                                                                                                                                                                                            
+33. Genel
+- aziz ilan etmek                                                                                                                                                             
+ -> canonise                                                                                                                                                                                         
+34. Genel
+- aziz ilan etmek                                                                                                                                                             
+ -> beatify                                                                                                                                                                                          
+35. Genel
+- aziz ilan etmek                                                                                                                                                             
+ -> make into a saint                                                                                                                                                                                
+36. Genel
+- aziz unvanını elinden almak                                                                                                                                                 
+ -> uncanonize                                                                                                                                                                                       
+37. Genel
+- aziz gibi                                                                                                                                                                   
+ -> saintlike                                                                                                                                                                                        
+38. Genel
+- en aziz seviyede olan                                                                                                                                                       
+ -> saintliest                                                                                                                                                                                       
+39. Genel
+- aziz gibi                                                                                                                                                                   
+ -> saintly                                                                                                                                                                                          
+40. Genel
+- daha aziz seviyede olan                                                                                                                                                     
+ -> saintlier                                                                                                                                                                                        
+41. Genel
+- aziz gibi                                                                                                                                                                   
+ -> saintish                                                                                                                                                                                         
+42. Genel
+- aziz dominik'e ait                                                                                                                                                          
+ -> dominican                                                                                                                                                                                        
+43. Genel
+- aziz dominik ile ilgili                                                                                                                                                     
+ -> dominican                                                                                                                                                                                        
+44. Genel
+- aziz tutarak                                                                                                                                                                
+ -> cherishingly                                                                                                                                                                                     
+45. Genel
+- aziz anlamı veren ön ek                                                                                                                                                     
+ -> hier-                                                                                                                                                                                            
+46. Genel
+- aziz anlamı veren ön ek                                                                                                                                                     
+ -> hiero-                                                                                                                                                                                           
+237. Coğrafya
+- aziz elmo'nun ateşi                                                                                                                                                         
+ -> elmo's fire                                                                                                                                                                                      
+238. Coğrafya
+- aziz elmo ateşi                                                                                                                                                             
+ -> elmo's fire                                                                                                                                                                                      
+239. Coğrafya
+- aziz lawrence nehri                                                                                                                                                         
+ -> saint lawrence                                                                                                                                                                                   
+240. Coğrafya
+- aziz lawrence nehri                                                                                                                                                         
+ -> saint lawrence river                                                                                                                                                                             
+241. Sanat
+- aziz luke kardeşliği adındaki alman sanat derneğinin üyesi olan kimse                                                                                                       
+ -> nazarene                                                                                                                                                                                         
+244. Argo
+- aziz patrik gününde içmek/içki içmek                                                                                                                                        
+ -> drown the shamrock                                                                                                                                                                               
