@@ -2,7 +2,18 @@
 
 A tool to use the Tureng Dictionary on Rofi.
 
-![Tureng View](README_IMGS/Tureng_View.png)
+<table>
+	<tbody>
+		<tr>
+			<td>
+                <img src="README_IMGS/Tureng_View.png">
+            </td>
+			<td>
+                <img src="README_IMGS/rofi-kullanım-ornek.png">
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ## Table of Contents
 - [Rofi Tureng](#rofi-tureng)
