@@ -9,6 +9,9 @@ A tool to use the Tureng Dictionary on Rofi.
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+    - [URL Variable](#url-variable)
+      - [Defining the URL Variable](#defining-the-url-variable)
+      - [Explanation](#explanation)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -41,6 +44,33 @@ To use the Tureng Dictionary on Rofi, follow these steps:
     ```
 
 2. Follow the prompts in Rofi to look up words in the Tureng Dictionary.
+
+### URL Variable
+
+To modify the URL used for querying the Tureng Dictionary, you can adjust the `url` variable in the script (`rofi-tureng` file). Here's how you can do it:
+
+#### Defining the URL Variable
+
+Currently, the script contains the following line to define the URL:
+
+```bash
+url="https://tureng.com/tr/turkce-ingilizce/$encoded_input"
+```
+
+This URL is used to search for words in the **Turkish-English** dictionary. However, if you want to use the **English-Turkish** dictionary instead, you can modify the URL like this:
+
+```bash
+url="https://tureng.com/en/turkish-english/$encoded_input"
+```
+
+This change will direct the script to query the English-Turkish translation page instead of the Turkish-English page on the Tureng website.
+
+#### Explanation
+
+- The original URL (`https://tureng.com/tr/turkce-ingilizce/$encoded_input`) is for the **Turkish to English** dictionary.
+- By changing the `tr` to `en` and updating the path accordingly, the new URL (`https://tureng.com/en/turkish-english/$encoded_input`) points to the **English to Turkish** dictionary.
+
+This modification ensures that the script searches in the correct dictionary based on your preference.
 
 ## Contributing
 
