@@ -2,6 +2,8 @@
 
 A tool to use the Tureng Dictionary on Rofi.
 
+![Tureng View](README_IMGS/Tureng_View.png)
+
 ## Table of Contents
 - [Rofi Tureng](#rofi-tureng)
   - [Table of Contents](#table-of-contents)
