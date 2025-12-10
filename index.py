@@ -7,8 +7,12 @@ import os
 # URL parametresini al
 url = sys.argv[1]
 
-# Create a scraper to bypass Cloudflare protections
-scraper = cloudscraper.create_scraper()
+# Optimized configuration for v3 challenges
+scraper = cloudscraper.create_scraper(
+    interpreter='js2py',  # Recommended for v3 challenges
+    delay=5,              # Allow more time for complex challenges
+    debug=True            # Enable debug output to see v3 detection
+)
 
 # Send the request to the URL
 response = scraper.get(url)
