@@ -1,26 +1,29 @@
 #!/bin/bash
 
-# Rofi aç ve kullanıcıdan giriş al
+# Bu script'in bulunduğu dizini al
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Rofi aç
 input=$(rofi -dmenu -p "Search in Tureng")
 
 # Python sanal ortamını etkinleştir
-source ./myenv/bin/activate
+source "$SCRIPT_DIR/myenv/bin/activate"
 
-# Eğer input boş değilse işlemi başlat
 if [ -n "$input" ]; then
-    # HTML encode işlemi
+    # HTML encode
     encoded_input=$(python3 -c "import urllib.parse; print(urllib.parse.quote('''$input'''))")
 
-    # Tureng URL'yi oluştur
+    # Tureng URL oluştur
     url="https://tureng.com/tr/turkce-ingilizce/$encoded_input"
 
-    # Çıktıyı göster
     echo "Navigating to: $url"
-    
-    # Python scripti çalıştır, URL'yi işlemek için
-    python3 ./index.py "$url"
+
+    # Python scriptini çalıştır
+    python3 "$SCRIPT_DIR/index.py" "$url"
 fi
 
-bash ./clean_table.sh
+# Shell script çalıştır
+bash "$SCRIPT_DIR/clean_table.sh"
 
-cat ./clean_rofi_output.txt | rofi -dmenu
+# Rofi output dosyasını göster
+cat "$SCRIPT_DIR/clean_rofi_output.txt" | rofi -dmenu
