@@ -11,7 +11,7 @@ url = sys.argv[1]
 scraper = cloudscraper.create_scraper(
     interpreter='js2py',  # Recommended for v3 challenges
     delay=5,              # Allow more time for complex challenges
-    debug=True            # Enable debug output to see v3 detection
+    debug=False            # Enable debug output to see v3 detection
 )
 
 # Send the request to the URL
