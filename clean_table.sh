@@ -1,7 +1,10 @@
 #!/bin/bash
 
-input_file="script_output.txt"  # Giriş dosyasının adı
-output_file="clean_rofi_output.txt"  # Çıkış dosyasının adı
+# Bu script'in bulunduğu dizini al
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+input_file="$SCRIPT_DIR/script_output.txt"  # Giriş dosyasının adı
+output_file="$SCRIPT_DIR/clean_rofi_output.txt"  # Çıkış dosyasının adı
 
 
 # Çıkış dosyasını sıfırla
